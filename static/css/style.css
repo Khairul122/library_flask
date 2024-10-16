@@ -1,0 +1,36 @@
+/* Custom styles to enhance Bootstrap */
+body {
+    background-color: #f8f9fa; /* Light background for the whole page */
+}
+
+/* Custom navbar styles */
+.navbar {
+    margin-bottom: 20px; /* Space below navbar */
+}
+
+/* Container styles */
+.container {
+    margin-top: 20px; /* Space above the container */
+}
+
+/* Headings styling */
+h2 {
+    color: #343a40; /* Darker text for headings */
+    margin-bottom: 20px; /* Space below headings */
+}
+
+/* Button spacing */
+.btn {
+    margin-right: 5px; /* Space between buttons */
+}
+
+/* Table styling */
+.table th {
+    background-color: #007bff; /* Blue background for header */
+    color: white; /* White text for header */
+}
+
+/* Striped rows for better readability */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f2f2f2; /* Light gray for odd rows */
+}
